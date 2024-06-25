@@ -1,6 +1,6 @@
 Hello everyone! 😊
 
-My name is Francesco, and I am a student at epicode. 
-I am completing the Data Analyst course and here you will find all the work I have completed. 📊🔍
+My name is Francesco, and I'm a student at Epicode. 
+Here you will find all the work completed by me during the data analyst course. 📊🔍
 
-If you need further corrections or have other questions, I’ll be happy to assist!
+If you need information or have other questions, I'll be happy to assist you!
