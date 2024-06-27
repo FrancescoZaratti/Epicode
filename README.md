@@ -6,4 +6,4 @@ Here you will find all the work completed by me during the data analyst course. 
 
 If you need information or have other questions, I'll be happy to assist you!
 
-![Logo Epicode](https://github.com/FrancescoZaratti/Epicode/assets/153545609/c8cf7352-efa8-4c8d-ae1c-16a816507592)
+![Logo Epicode banner Github](https://github.com/FrancescoZaratti/Epicode/assets/153545609/a5f68227-9b7e-45d4-8b4e-0b8ba7ec2cbd)
