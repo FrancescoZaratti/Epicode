@@ -1,3 +1,5 @@
+![Logo Epicode](https://github.com/FrancescoZaratti/Epicode/assets/153545609/c8cf7352-efa8-4c8d-ae1c-16a816507592)
+
 Hello everyone! 😊
 
 My name is Francesco, and I'm a student at Epicode.
